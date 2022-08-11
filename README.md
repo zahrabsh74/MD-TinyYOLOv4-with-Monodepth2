@@ -5,5 +5,5 @@ This model is presented for specifically detecting motorcycles with black windsh
 
 This model was trained based on a custom dataset which was capturing from motorcycles in Tehran's streets.
 
-# woman_judge License
+# License
 Copyright © Zahra, Inc. 2022. Patent Pending. All rights reserved. Please see the license file for terms
