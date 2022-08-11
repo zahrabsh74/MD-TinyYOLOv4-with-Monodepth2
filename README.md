@@ -1,4 +1,4 @@
-# MDT-YOLOv4
+# MDT-YOLOv4 & Monodepth
 Real-time time motorcycle detection and range estimation with MDT-YOLOv4 and Monodepth in a single image 
 
 This model is presented for specifically detecting motorcycles with black windshields.
